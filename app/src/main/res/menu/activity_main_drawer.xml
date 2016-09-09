@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_android"
+            android:icon="@drawable/android"
+            android:title="@string/android" />
+        <item
+            android:id="@+id/nav_ios"
+            android:icon="@drawable/ios"
+            android:title="@string/ios" />
+        <item
+            android:id="@+id/nav_web"
+            android:icon="@drawable/js"
+            android:title="@string/js" />
+        <item
+            android:id="@+id/nav_app"
+            android:icon="@drawable/app"
+            android:title="@string/app"/>
+        <item
+            android:id="@+id/nav_excited"
+            android:icon="@drawable/excited"
+            android:title="@string/excited"/>
+        <item
+            android:id="@+id/nav_others"
+            android:icon="@drawable/others"
+            android:title="@string/others"/>
+
+        <item
+            android:id="@+id/nav_beauty"
+            android:icon="@drawable/beauty"
+            android:title="@string/beauty" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <!--
+            -->
+            <item
+                android:id="@+id/nav_favorite"
+                android:icon="@drawable/favorite"
+                android:title="@string/favorite" />
+        </menu>
+    </item>
+
+</menu>

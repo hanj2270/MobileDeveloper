@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">移动开发干货</string>
+    <string name="author">By Nagato Hanj</string>
+
+    <string name="android">Android</string>
+    <string name="ios">ios</string>
+    <string name="js">JavaScript</string>
+    <string name="app">app推荐</string>
+    <string name="excited">趣味资讯</string>
+    <string name="others">杂项其他</string>
+    <string name="beauty">保养眼睛</string>
+    <string name="favorite">我的收藏</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

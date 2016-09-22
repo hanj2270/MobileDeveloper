@@ -15,4 +15,12 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+
+
+
+    <string name="No_more_fetch_data">您已到达数据世界的尽头，没有更多的文章</string>
+    <string name="IOException_string">因为神秘的力量网络请求失败了，请重新进行连接尝试</string>
+    <string name="NoHostException_string">我们失去了与网络世界的的联系，请检查您的网络连接</string>
+    <string name="fragment_refreshed">正在为您获取最新的信息,请稍后</string>
 </resources>
